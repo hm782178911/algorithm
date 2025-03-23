@@ -58,7 +58,7 @@ conda activate book_recommendation
 #### 步骤 2：克隆项目
 
 ```shell
-git clone https://github.com/yourusername/book_recommendation_system.git
+git clone [git地址]
 cd book_recommendation_system
 ```
 
